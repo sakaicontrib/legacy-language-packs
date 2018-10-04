@@ -10,7 +10,7 @@ Some language packs that have been marked as unmantained by the community have b
 |fr_CA|2018-10-04|Sakai 19|
 |nl|2018-10-04|Sakai 19|
 |ar|2018-10-04|Sakai 19|
-
+|ru|2018-10-04|Sakai 19|
 
 # Legacy Language Pack installation guide
 
