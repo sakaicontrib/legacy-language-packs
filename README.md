@@ -1,5 +1,5 @@
 # Sakai Legacy Language Packs
-Some language packs that have been marked as unmantained by the community have been moved to this repository before releasing Sakai 19.
+Some language packs that have been marked as unmantained by the community and have been moved to this repository before releasing Sakai 19.
 
 |Locale|Archived|Version|
 |---|---|---|
@@ -16,6 +16,10 @@ Some language packs that have been marked as unmantained by the community have b
 |zh_TW|2018-10-04|Sakai 19|
 |vi|2018-10-04|Sakai 19|
 |en_GB|2018-10-04|Sakai 19|
+
+Any institution that require one of these languages can install it in their instance pretty easily, please see the instructions below. The *message bundle manager* tool allows to override any property in any language.
+
+Please contact *sakai-dev[AT]apereo.org* in case of doubts.
 
 # Legacy Language Pack installation guide
 
