@@ -1,9 +1,10 @@
 # Sakai Legacy Language Packs
 Some language packs that have been marked as unmantained by the community have been moved to this repository before releasing Sakai 19.
 
-|Locale|Archived|Deprecated|
+|Locale|Archived|Version|
 |---|---|---|
 |es_MX|2018-10-03|Sakai 19|
+|de|2018-10-04|Sakai 19|
 
 # Legacy Language Pack installation guide
 
